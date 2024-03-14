@@ -139,7 +139,7 @@ build/
 /build-rust-analyzer/
 /dist/
 /unicode-downloads
-/target
+/rust/target
 /src/bootstrap/target
 /src/tools/x/target
 # Created by default with `src/ci/docker/run.sh`
